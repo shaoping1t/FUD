@@ -1,0 +1,2 @@
+# FUD
+Chinese text recognition
