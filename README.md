@@ -54,7 +54,7 @@ Eval:
 Global:
   save_model_dir: ./output/tiny/ #模型保存地址
   pretrained_model: ./tiny_scene.pdparams #加载预训练模型
-  character_dict_path: ./fud/utils/ppocr_keys_v1.txt #字典
+  character_dict_path: ./fud/utils/ppocr_keys_v1.txt #字典，训练预测中文无需修改
   save_res_path: ./output/rec/predicts_t.txt #识别结果保存地址
 
 #完成参数配置可进行训练，下命令为单卡训练
