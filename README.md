@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 #### 训练
 
-* 我们提供模型的预训练权重：https://pan.baidu.com/s/1b_YoPNE92pgBxD3_U-EFbQ?pwd=4466 
+* 我们提供模型在三种数据集场景下的预训练权重：https://pan.baidu.com/s/1b_YoPNE92pgBxD3_U-EFbQ?pwd=4466 
 提取码：4466 
 
 训练FUD模型时需要**修改目录./configs/rec/下的配置文件**。
